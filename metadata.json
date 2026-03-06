@@ -1,0 +1,5 @@
+{
+  "name": "Shraddha Dental Clinic & Implant Centre",
+  "description": "Professional multispeciality dental clinic in Mathura providing advanced dental care, implants, and orthodontic treatments.",
+  "requestFramePermissions": ["geolocation"]
+}
